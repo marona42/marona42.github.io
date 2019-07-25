@@ -1,10 +1,10 @@
 ---
 title: "Post: Quote"
 categories:
-  - Blog
+  - 예제
 tags:
-  - Post Formats
-  - quote
+  - 예제
+  - 삭제바람
 ---
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.

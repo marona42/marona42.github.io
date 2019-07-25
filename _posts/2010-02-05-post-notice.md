@@ -1,10 +1,10 @@
 ---
 title: "Post: Notice"
 categories:
-  - Blog
+  - 예제
 tags:
-  - Post Formats
-  - notice
+  - 예제
+  - 삭제바람
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.

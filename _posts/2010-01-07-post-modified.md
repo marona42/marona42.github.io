@@ -2,11 +2,10 @@
 title: "Post: Modified Date"
 last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
-  - Blog
+  - 예제
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - 예제
+  - 삭제바람
 ---
 
 This post has been updated and should show a modified date if used in a layout.
