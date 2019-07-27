@@ -49,13 +49,16 @@
   display: flex;
   -ms-flex-item-align: center;
   align-self: center;
+  font-family: $cursive;
   font-weight: bold;
   z-index: 20;
 }
 
 .site-subtitle {
   display: block;
+ // font-family: $sans-serif-narrow;
   font-size: $type-size-8;
+  font-weight: lighter;
 }
 
 .masthead__menu {
