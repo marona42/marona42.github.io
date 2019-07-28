@@ -72,6 +72,7 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - work/
+  - posting.py
 
 # Plugins (previously gems:)
 plugins:
