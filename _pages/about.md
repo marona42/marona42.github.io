@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+이것저것 흥미돋는 것이 있으면 팝니다.  
+이 페이지도 좀 예쁘게 꾸며야겠는데... 귀찮아요.  
+세상은 너무 넓고 즐길 것과 감동할 것이 수도 없이 많은 데 시간은 언제나 흘러가고 있으니, 어서 다른 블로그 글을 보시거나 할 일을 하시는 것이 어떤가요?  
+언젠가는 이 페이지도 보고 感動할만한 내용으로 채워넣겠죠!
