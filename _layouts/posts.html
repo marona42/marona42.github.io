@@ -21,8 +21,10 @@ layout: archive
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ page.entries_layout | default: 'list' }}">
       {% for post in year.items %}
-        {% unless post.tags contains '숨김' %}   <!--exclude "숨김" tags-->
+        {% unless post.hidden %}   <!--exclude "hidden" tags-->
+        {% unless post.tags contains '숨김' %}
          {% include archive-single.html type=page.entries_layout %}
+        {% endunless %}
         {% endunless %}
       {% endfor %}
     </div>
