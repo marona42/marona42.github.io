@@ -34,12 +34,13 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 4 # amount of posts to show
 paginate_path: /page:num/
 timezone: "KR"
 
 include:
   - _pages
+#  - _plugins
 
 
 # Exclude from processing.
@@ -76,12 +77,12 @@ exclude:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-paginate
 
 author:
   name   : "marona"
@@ -121,12 +122,17 @@ analytics:
     tracking_id          : "UA-144781317-1"
     anonymize_ip         : false # true, false (default)
 
+# 언젠간 넣을지도?
+#search_provider          : "google" # lunr (default), algolia, google
+#google:
+#  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+#  instant_search         : false# false (default), true
 
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "<!--more-->"
 incremental: false
 
 # Markdown Processing
@@ -174,6 +180,7 @@ defaults:
       read_time: true
       comments: true
       share: true
+      invisible: false  #for sitemap
       related: true
   # _pages
   - scope:
