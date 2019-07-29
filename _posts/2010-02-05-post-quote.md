@@ -4,7 +4,7 @@ categories:
   - 예제
 tags:
   - 예제
-  - 삭제바람
+  - 숨김
 ---
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.

@@ -5,7 +5,7 @@ categories:
   - 예제
 tags:
   - 예제
-  - 삭제바람
+  - 숨김
 ---
 
 This post has been updated and should show a modified date if used in a layout.

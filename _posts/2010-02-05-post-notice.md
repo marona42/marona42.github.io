@@ -4,7 +4,7 @@ categories:
   - 예제
 tags:
   - 예제
-  - 삭제바람
+  - 숨김
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
