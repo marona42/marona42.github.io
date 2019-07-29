@@ -114,6 +114,12 @@ footer:
  #     icon: "fab fa-fw fa-instagram"
  #     url: "https://instagram.com/"
 
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-144781317-1"
+    anonymize_ip         : false # true, false (default)
 
 
 # Conversion
