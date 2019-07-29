@@ -5,7 +5,6 @@ categories:
   - 예제
 tags:
   - 예제
-  - 숨김
 hidden: true
 ---
 
