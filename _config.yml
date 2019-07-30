@@ -26,6 +26,7 @@ repository: "marona42/marona42.github.io"
 github_username: marona42
 minimal_mistakes_skin: "air"
 search: true
+words_per_minute: 120
 
 # Build settings
 markdown: kramdown 
