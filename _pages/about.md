@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-profile: true
 layout: splash
 ---
 {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
