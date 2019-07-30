@@ -27,14 +27,17 @@ if len(sys.argv)==1:
     print(__doc__)
     sys.exit()
 for arg in sys.argv[1:]:
+    print(arg)
     if '--' in arg:
         #handling long parameter
         if arg[2:] in longparam.keys():
             enableparam(longparam[arg[2:]])
+        else: name=arg
     elif '-' in arg:
         #handling parameter
         if arg[1:] in param:
             enableparam(param[arg[1:]])
+        else: name=arg
     else:
         name=arg
         
