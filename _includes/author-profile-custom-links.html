@@ -5,3 +5,19 @@
     </a>
   </li>
 -->
+
+  {% if page.profile %}
+  <li>
+      <a href="https://www.acmicpc.net/user/marona" itemprop="sameAs" rel="nofollow noopener noreferrer">
+       <!-- <svg class="icon" type="/assets/svg/boj.svg" aria-hidden="true"></svg>-->
+        <!-- <object type="image/svg+xml" data="/assets/svg/boj.svg" class="icon">현재 브라우저는 iframe을 지원하지 않습니다.</object>-->
+        <img class="icon" src="/assets/svg/boj.svg"> BOJ
+  
+      </a>
+    </li>
+  <li>
+      <a href="http://codeforces.com/profile/marona" itemprop="sameAs" rel="nofollow noopener noreferrer">
+        <img class="icon" src="/assets/svg/codeforces.svg"> codeforces
+      </a>
+    </li>
+{%endif%}

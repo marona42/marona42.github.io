@@ -104,16 +104,28 @@ author:
 #      url: "https://instagram.com/"
 
 footer:
-  links:
+#  links:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/marona42"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/marona42"
  #   - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
  #     url: "https://instagram.com/"
+ profile:
+    links:
+      - label: "BOJ"
+        icon: "/assets/svg/boj.svg"
+        url: "https://www.acmicpc.net/user/marona"
+      - label: "codeforce"
+        icon: "/assets/svg/codeforces.svg"
+        url: "http://codeforces.com/profile/marona"
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/marona42"
+
 
 # Analytics
 analytics:

@@ -1,7 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+profile: true
+layout: splash
 ---
+{% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
 
 이것저것 흥미돋는 것이 있으면 팝니다.  
 여기도 예쁘게 꾸며야하는데... 귀찮아요.  
