@@ -135,6 +135,8 @@ analytics:
     tracking_id          : "UA-144781317-1"
     anonymize_ip         : false # true, false (default)
 
+naver_site_verification  : ab1699a620cca222bb29463961f2bc5d4a4783c9
+
 # 언젠간 넣을지도?
 #search_provider          : "google" # lunr (default), algolia, google
 #google:
