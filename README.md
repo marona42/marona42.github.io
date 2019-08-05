@@ -4,13 +4,22 @@
 
 ## TODO
 
-[x] Remove or hide sample posts.  
-[ ] Edit author profile with social links.  
-[ ] Add or remove footer links.  
-[x] Paginated home page.  
-[x] Customize about page.  
-[x] Customize 404 page.  
-[ ] Add comment feature.  
+- [x] Remove or hide sample posts.  
+- [ ] Edit author profile with social links.  
+- [ ] Add or remove footer links.  
+- [x] Paginated home page.  
+- [x] Customize about page.  
+- [x] Customize 404 page.  
+- [ ] Add comment feature.  
+
+## Customized contents for fork repos
+
+- Can hide post from posts and tags by using tag '숨김'
+  - Use `hidden = true` to hide from paginator
+  - hidden element or '숨김' tag will hide at related post too
+- Refined translations of ui-text
+- Added g-tag at custom head. Should be removed when forked
+- Set wpm by 120 to average Korean wpm, default:200
 
 ## References
 
