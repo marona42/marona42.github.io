@@ -115,7 +115,7 @@ footer:
  #   - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
  #     url: "https://instagram.com/"
- profile:
+  profile:
     links:
       - label: "BOJ"
         icon: "/assets/svg/boj.svg"
